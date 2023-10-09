@@ -1,7 +1,7 @@
 {
   "name": "ocr",
   "runtime": "node/v18",
-  "retion": "US",
+  "region": "US",
   "envs": [
     "app_id",
     "app_secret"
